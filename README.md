@@ -5,7 +5,7 @@ This repository contains all source codes, projects, and materials developed for
 
 The Embedded Systems (EA801) course covers the fundamentals and applications of microcontroller-based systems, low-level programming, hardware interfacing, and firmware development for embedded devices. Throughout the course, we explore topics such as microcontroller architectures, serial communication, interrupts, timers, and various peripherals.
 
-##Repository Content:
+## Repository Content:
 
 ### Here you'll find:
 
@@ -35,6 +35,6 @@ build/: Compiled files or executables (if generated).
 
 * IDEs/Tools: Arduino IDE, Thonny and VS Code.
 
-###How to Use:
+### How to Use:
 
 Feel free to explore the code and solutions. This repository serves as a record of my learning and development in the field of embedded systems.
